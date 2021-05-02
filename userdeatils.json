@@ -1,0 +1,54 @@
+{
+   "user": [
+      {
+         "name": "Reena",
+         "password": "Reena@12",
+         "profile": {
+            "description": "i like to eat ",
+            "dob": "15-9-1999",
+            "hobbies": "dance",
+            "gender": "f"
+         }
+      },
+      {
+         "name": "Amrita",
+         "password": "Ammo@12",
+         "profile": {
+            "description": "i like to dance",
+            "dob": "16-9-1999",
+            "hobbies": "drawing",
+            "gender": "f"
+         }
+      },
+      {
+         "name": "Rani",
+         "password": "Rani@12",
+         "profile": {
+            "description": "i like to makeup",
+            "dob": "1-5-2000",
+            "hobbies": "song listining",
+            "gender": "f"
+         }
+      },
+      {
+         "name": "Sandhya",
+         "password": "Sanno@12",
+         "profile": {
+            "description": "i like to eating",
+            "dob": "2-7-2000",
+            "hobbies": "dance",
+            "gender": "f"
+         }
+      },
+      {
+         "name": "Zenat",
+         "password": "Zenat@12",
+         "profile": {
+            "description": "i like to makeup",
+            "dob": "2-8-2000",
+            "hobbies": "dancing",
+            "gender": "female"
+         }
+      }
+   ]
+}
